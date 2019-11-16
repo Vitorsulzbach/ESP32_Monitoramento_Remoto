@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/CMakeFiles/mconf-idf
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/CMakeFiles/mconf-idf.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/CMakeFiles/mconf-idf-complete.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/vitor/TCC2-esp/esp_http_client/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule

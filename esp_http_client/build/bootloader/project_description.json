@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/vitor/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/vitor/TCC2-esp/esp_http_client/build/bootloader",
+    "config_file":        "/home/vitor/TCC2-esp/esp_http_client/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1-dev-815-ga45e99853",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/vitor/esp/esp-idf/components/efuse/Kconfig;/home/vitor/esp/esp-idf/components/esp32/Kconfig;/home/vitor/esp/esp-idf/components/esp_common/Kconfig;/home/vitor/esp/esp-idf/components/freertos/Kconfig;/home/vitor/esp/esp-idf/components/log/Kconfig;/home/vitor/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/vitor/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/vitor/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/vitor/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "freertos", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/vitor/esp/esp-idf/components/bootloader", "/home/vitor/esp/esp-idf/components/bootloader_support", "/home/vitor/esp/esp-idf/components/efuse", "/home/vitor/esp/esp-idf/components/esp32", "/home/vitor/esp/esp-idf/components/esp_common", "/home/vitor/esp/esp-idf/components/esp_rom", "/home/vitor/esp/esp-idf/components/esptool_py", "/home/vitor/esp/esp-idf/components/freertos", "/home/vitor/esp/esp-idf/components/log", "/home/vitor/esp/esp-idf/components/bootloader/subproject/main", "/home/vitor/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/vitor/esp/esp-idf/components/partition_table", "/home/vitor/esp/esp-idf/components/soc", "/home/vitor/esp/esp-idf/components/spi_flash", "/home/vitor/esp/esp-idf/components/xtensa", "" ]
+}
